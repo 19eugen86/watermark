@@ -1,6 +1,6 @@
 # watermark
 
-AFter cloning the repo you will need to create 3 folders inside the root folder of the repo:
+After cloning the repo you will need to create 3 folders inside the root folder of the repo:
 
 1/ temp (to store temporary files)
 
